@@ -12,6 +12,4 @@ dependencies:
   - matplotlib
   - sympy
   - pandas
-  - pip:
-    - -r requiremets.txt
 
