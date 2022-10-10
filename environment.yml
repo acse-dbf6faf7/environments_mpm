@@ -5,3 +5,10 @@ channels:
 dependencies:
   - python>=3.6,<3.10
   - pip
+  - ipython
+  - jupyter
+  - numpy
+  - scipy
+  - pip:
+    - -r requiremets.txt
+
