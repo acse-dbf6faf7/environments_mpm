@@ -7,8 +7,10 @@ dependencies:
   - pip
   - ipython
   - jupyter
-  - numpy
+  - numpy>1.16
   - scipy
+  - matplotlib
+  - sympy
   - pip:
     - -r requiremets.txt
 
