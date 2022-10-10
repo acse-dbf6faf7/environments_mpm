@@ -1,5 +1,5 @@
 numpy>1.16
 scipy
 matplotlib
-SymPy
+symPy
 pandas
